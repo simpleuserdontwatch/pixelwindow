@@ -6,6 +6,7 @@ Well its not in python pip right now
 - numpy
 - cv2
 - pyautogui
+- pillow
 # How to use
 first you have to enter res
 and then you done!
